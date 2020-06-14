@@ -10,8 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 登陆Controller层
  */
 @Controller

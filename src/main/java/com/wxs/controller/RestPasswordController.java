@@ -13,8 +13,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.annotation.Resource;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 修改密码Controller层
  */
 

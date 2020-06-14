@@ -3,8 +3,6 @@ package com.wxs.service;
 import com.wxs.po.Userlogin;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 登陆Service层
  */
 public interface UserloginService {

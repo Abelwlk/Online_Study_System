@@ -16,8 +16,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 老师Controller层
  */
 

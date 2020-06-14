@@ -17,8 +17,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 身份验证
  */
 @Component

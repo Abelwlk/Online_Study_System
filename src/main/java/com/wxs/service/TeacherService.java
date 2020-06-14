@@ -5,8 +5,6 @@ import com.wxs.po.Teacher;
 import java.util.List;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 教师Service层
  */
 public interface TeacherService {

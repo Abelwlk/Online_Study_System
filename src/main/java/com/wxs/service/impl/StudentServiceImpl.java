@@ -11,8 +11,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 学生Service层实现类
  */
 @Service

@@ -7,8 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 参数绑定 字符串日期转换器
  */
 public class CustomDateConverter implements Converter<String, Date> {

@@ -7,8 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 用户类型Service层实现类
  */
 @Service

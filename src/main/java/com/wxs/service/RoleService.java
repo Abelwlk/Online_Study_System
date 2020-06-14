@@ -3,8 +3,6 @@ package com.wxs.service;
 import com.wxs.po.Role;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 用户类型Service层
  */
 public interface RoleService {

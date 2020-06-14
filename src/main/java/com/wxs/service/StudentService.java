@@ -5,8 +5,6 @@ import com.wxs.po.Student;
 import java.util.List;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 学生Service层
  */
 public interface StudentService {

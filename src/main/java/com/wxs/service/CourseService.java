@@ -5,8 +5,6 @@ import com.wxs.po.Course;
 import java.util.List;
 
 /**
- * Author: jitwxs
- * Date: 2017-10-10
  * 课程Service层
  */
 public interface CourseService {
